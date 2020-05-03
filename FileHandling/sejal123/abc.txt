@@ -1,2 +1,3 @@
 Sejal is a good girl
 Sejal studies with dedication.
+Sejal loves git.
